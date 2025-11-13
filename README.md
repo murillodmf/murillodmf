@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Murillo de Moura Ferraz
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Desenvolvedor em formação, focado em **back-end e full stack**  
+💻 Graduando em **Ciência da Computação**  
 ⚙️ Experiência prática com **Java, Spring, Python, JavaScript, CSS, HTML, SQL e PostgreSQL**
 
 ---
@@ -9,7 +8,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,reactnative,postgresql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,react-native,postgresql,mysql,git,github" />
 </div>
 
 ---
