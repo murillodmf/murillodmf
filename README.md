@@ -8,7 +8,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,react-native,postgresql,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,react,c,c++,postgresql,mysql,git,github" />
 </div>
 
 ---
