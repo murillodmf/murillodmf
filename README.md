@@ -15,9 +15,9 @@
 
 ## 💼 Projetos em Destaque
 
-- 🧩 **Sistema de Avaliação Acadêmica** — Spring Boot + React + PostgreSQL  
-- 📱 **App de Avaliação de Restaurantes** — React Native + Node.js + PostgreSQL  
-- 🤖 **Projetos Acadêmicos** — foco em algoritmos, IA e redes  
+- 📩 **InboxAI – Classificador Inteligente de Emails** - Python + Flask + Hugging Face (NLP/LLM)
+- 🧩 **Sistema de Gerenciamentp Escolar** — Spring Boot + React + PostgreSQL  
+- 📱 **App de Avaliação de Restaurantes** — React Native + Node.js + PostgreSQL 
 
 ---
 
